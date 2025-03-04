@@ -1,5 +1,3 @@
-package Class;
-
 import java.util.*;
 import java.util.ArrayList;
 

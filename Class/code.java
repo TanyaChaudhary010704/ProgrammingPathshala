@@ -1,4 +1,3 @@
-package Class;
 public class code {
   static int count = 0;
 

@@ -1,4 +1,4 @@
-package Class;
+
 import java.util.ArrayList;
 public class subsets {
   static ArrayList<Integer> list = new ArrayList<Integer>();

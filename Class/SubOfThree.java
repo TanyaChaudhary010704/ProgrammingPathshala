@@ -1,4 +1,4 @@
-package Class;
+
 //find number of subsequences of length 3 which are palindromes
 //using meet in the middle approach 
 public class SubOfThree {

@@ -1,4 +1,4 @@
-package Class;
+
 
 public class SubOfFive {
   public static void main(String[] args) {
