@@ -56,7 +56,7 @@ public class RotateArray {
     
     int arr[] = { 1, 2, 3, 4, 5, 6,7,8 };
     int n = arr.length;
-    int k = 8;
+    int k = 2;
     // int ans1[] = rotateArray1(arr,n,k%n);
     // print(ans1);
     // int ans2[] = rotateArray2(arr,n,k%n);
