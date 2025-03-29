@@ -61,9 +61,9 @@ public class StringPermutations {
   }
   
   public static void main(String[] args) {
-    // String s = "ABC";
-    // permute2(s.toCharArray(), 0);
-    String s = "aab";
-    permute3(s.toCharArray(), 0);
+    String s = "ABC";
+    permute2(s.toCharArray(), 0);
+    // String s = "abccb";
+    // permute3(s.toCharArray(), 0);
   }
 }
