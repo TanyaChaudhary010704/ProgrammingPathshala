@@ -1,0 +1,19 @@
+Design Tic Tac Toe->
+
+Step1--> Gathering Requirements :
+* There is a 3x3 board
+* 2 players play game
+* Each player makes turn alternatively
+* Either symbol x or o is assigned to players
+* In each turn player puts symbol on any empty cell
+* Game terminates if ->
+** if board is full : DRAW
+** if there is a straight line hor/ver/dig containing the same symbol : winner ==> that player
+
+Step2--> Identification of Entities :
+* board, player, game, symbol, turn, 
+* Dependencies->
+        game
+      /      \
+    player   board
+    /    \   /    \
